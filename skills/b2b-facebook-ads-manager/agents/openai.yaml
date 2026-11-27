@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B Facebook Ads Manager"
+  short_description: "Meta广告、主页物料及工厂视频脚本、口播、封面与获客剪辑"
+  default_prompt: "Use $b2b-facebook-ads-manager to guide a factory owner step by step through product keywords, an English video script, a shot list and a video cover, or to manage Meta B2B ads and factory marketing assets."

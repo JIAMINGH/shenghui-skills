@@ -1,0 +1,4 @@
+interface:
+  display_name: "工厂出海品牌视觉设计"
+  short_description: "从工厂实拍和参考图设计 Facebook 封面、社媒横幅与网站主视觉"
+  default_prompt: "用 $global-brand-visual-designer 根据我提供的官网、产品实拍和 Logo 设计一张 Facebook 主页封面。"

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "shenghui-export",
+  "version": "1.0.0",
+  "description": "面向中国制造工厂的 B2B 出海获客工作流"
+}
